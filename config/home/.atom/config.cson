@@ -1,0 +1,31 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "pop-syntax"
+    ]
+  editor:
+    fontSize: 10
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "file-icons":
+    strategies:
+      hashbangs: false
+      linguist: false
+      modelines: false
+  "linter-eslint":
+    fixOnSave: true
+  "linter-ui-default":
+    showPanel: true
+  "markdown-pdf":
+    forceFallback: true
+  "plantuml-preview":
+    jarLocation: "/home/lil5/bin/lib/plantuml.jar"
+  "split-diff":
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+  welcome:
+    showOnStartup: false

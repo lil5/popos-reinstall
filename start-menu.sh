@@ -29,6 +29,7 @@ case $ANS in
 	;;
 	3)
 		./scripts/apt-install-pkglist.sh
+		./scripts/git-keyring.sh
 		./scripts/install-workrave-gnome.sh
 		./scripts/install-nodejs.sh
 		./scripts/install-atom.sh

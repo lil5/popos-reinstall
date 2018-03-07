@@ -7,7 +7,7 @@ then
 	exit 1
 fi
 
-echo 'Config install script for debian-xfce
+echo 'Config install script for Pop_OS
 
 Please type in a number to select a script to run:
 

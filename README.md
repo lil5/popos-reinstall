@@ -6,7 +6,7 @@
 
 run with
 
-```shell
+```
 $ ./start-menu.sh
 Config install script for Pop_OS
 

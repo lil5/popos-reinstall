@@ -1,6 +1,4 @@
-#! /bin/bash
-
-# tested
+#!/bin/bash
 
 sudo apt -y update
 sudo apt -y upgrade

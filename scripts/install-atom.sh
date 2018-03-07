@@ -1,6 +1,4 @@
-#! /bin/bash
-
-# tested
+#!/bin/bash
 
 wget -O ~/Desktop/atom.deb https://atom.io/download/deb
 sudo dpkg -i ~/Desktop/atom.deb
